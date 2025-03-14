@@ -8,3 +8,11 @@
 –  перейти в папку server;
 –  установить зависимости командой npm install;
 –  выполнить команду npm run dev.
+PORT='ПОРТ ДЛЯ СЕРВЕРА'
+DB_NAME='ИМЯ БАЗЫ ДАННЫХ В POSTGRESQL'
+DB_USER='ИМЯ ПОЛЬЗОВАТЕЛЯ БАЗЫ ДАННЫХ'
+DB_PASSWORD='ПАРОЛЬ ПОЛЬЗОВАТЕЛЯ БАЗЫ ДАННЫХ'
+DB_HOST=localhost
+DB_PORT='ПОРТ БАЗЫ ДАННЫХ'
+JWT_SECRET=smokinglongdoors
+REACT_APP_API_URL=http://localhost:PORT
