@@ -1,5 +1,5 @@
 # cleaning-service
-клонировать репозиторий git clone https://github.com/simonovgleb/cleaning-service.git
+Клонировать репозиторий git clone https://github.com/simonovgleb/cleaning-service.git.
 На компьютере необходимо установить платформу node.js версии не ниже 20.0.0 и PostgreSQL. Сайт с официальными установочными пакетами –  node.js https://nodejs.org и PostgreSQL https://www.postgresql.org/download/. 
 Алгоритм установки программного обеспечения на локальный компьютер:
 –  распаковать архив с программным обеспечением или клонировать репозиторий;
